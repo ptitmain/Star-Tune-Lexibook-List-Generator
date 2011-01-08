@@ -4,7 +4,7 @@ Star Tune Lexibook List Generator
 
 This script helps to generate the file "list.list" in the DMPJ1 music player,
 known as "Star Tune Lexibook". It replaces the Windows software that uploads
-the mp3 files and generate the playlist.
+the mp3 files and generates the playlists.
 
 How to use it ?
 ---------------
