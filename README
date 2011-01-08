@@ -1,0 +1,29 @@
+
+Star Tune Lexibook List Generator
+---------------------------------
+
+This script helps to generate the file "list.list" in the DMPJ1 music player,
+known as "Star Tune Lexibook". It replaces the Windows software that uploads
+the mp3 files and generate the playlist.
+
+How to use it ?
+---------------
+
+Put the script generate_list.py in the folders:
+
+- Music Player
+- Nightlight Sound
+- Story 
+
+Then, in each folder run it:
+
+python generate_list.py
+
+This will generate the file list.list. Repeat this operation in each folder.
+
+If your mp3 filenames contains special characters, you may automatically
+rename them running:
+
+python generate_list.py -r
+
+
